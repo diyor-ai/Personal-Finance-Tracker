@@ -1,0 +1,4 @@
+
+# requirements.txt faylida:
+colorama==0.4.6
+datetime==4.9.2
